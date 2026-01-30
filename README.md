@@ -27,11 +27,6 @@ Completed training with **IsDB-BISEW IT Scholarship Programme**
 - Flutter  
 - Node.js  
 
-## 📫 How to reach me
-- Email: [farzana.nilu99@gmail.com](mailto:farzana.nilu99@gmail.com)
-- LinkedIn: [Farzana Akter](www.linkedin.com/in/farzana-akter-806034388)
-
----
 
 <!--
 **Farzanaakter520/Farzanaakter520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
